@@ -1,0 +1,7 @@
+all:
+  children:
+    ansible:
+      hosts:
+        prd-core-mgmt-01
+      vars:
+        ansible_connection: local

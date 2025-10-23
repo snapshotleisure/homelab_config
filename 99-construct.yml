@@ -1,0 +1,6 @@
+plugin: constructed
+strict: False
+
+groups:
+  debian: inventory_hostname is is not search('proxy')
+  proxmox_vm: inventory_hostname is not search('proxy')

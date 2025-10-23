@@ -1,0 +1,9 @@
+#Timezone
+timezone: Australia/Canberra
+
+#Email Settings
+admin_notification_email_address: dRZD8cMPVlVVzShN-admin+tk_eupn9i6ko7kp1pm8cd6rs2pnqzgpd@meowillustration.com
+smtp_server: smtp.internal.meowillustration.com
+smtp_ssl_verify: false
+smtp_use_starttls: false
+smtp_email_domain: internal.meowillustration
