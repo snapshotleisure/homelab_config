@@ -6,4 +6,4 @@ admin_notification_email_address: dRZD8cMPVlVVzShN-admin+tk_eupn9i6ko7kp1pm8cd6r
 smtp_server: smtp.internal.meowillustration.com
 smtp_ssl_verify: false
 smtp_use_starttls: false
-smtp_email_domain: internal.meowillustration
+smtp_email_domain: internal.meowillustration.com
